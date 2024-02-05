@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\прочее\\ComplexMatrices\\ComplexMatrices.csproj",
+      "projectUniqueName": "C:\\Users\\Acer\\Desktop\\прочее\\own-projects\\ComplexMatrices\\ComplexMatrices.csproj",
       "projectName": "ComplexMatrices",
-      "projectPath": "C:\\Users\\Acer\\Desktop\\прочее\\ComplexMatrices\\ComplexMatrices.csproj",
+      "projectPath": "C:\\Users\\Acer\\Desktop\\прочее\\own-projects\\ComplexMatrices\\ComplexMatrices.csproj",
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer\\Desktop\\прочее\\ComplexMatrices\\obj\\",
+      "outputPath": "C:\\Users\\Acer\\Desktop\\прочее\\own-projects\\ComplexMatrices\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
