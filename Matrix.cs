@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-namespace ComplexMatrices
+﻿namespace ComplexMatrices
 {
     public class Matrix
     {
